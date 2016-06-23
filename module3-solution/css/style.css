@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: rgb(41, 141, 223);
+  font-family: 'Oxygen', sans-serif;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1{
+  font-family: 'Lora', serif;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-brand a:hover {
+  text-decoration: none;
+}
+
+#header-nav {
+  background-color: #fff;
+}
+
+#logo-img {
+  background: url('/Users/arekay/Documents/coursera-master/module3-solution/meat.jpg') no-repeat;
+  width: 150px;
+  height: 150px;
+  margin: 10px 15px 10px 0;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+
+#nav-list a {
+  text-align: center;
+}
+
+#nav-list a:hover {
+  background-color: rgb(41, 141, 223);
+}
