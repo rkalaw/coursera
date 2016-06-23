@@ -33,7 +33,7 @@ body {
 }
 
 #logo-img {
-  background: url('meat.jpg') no-repeat;
+  background: url('https://raw.githubusercontent.com/rkalaw/rkalaw.github.io/master/module3-solution/meat.jpg') no-repeat;
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
